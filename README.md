@@ -70,7 +70,7 @@ This page provides real-time monitoring of operations and sensor data.
 ---
 
 ### 5. Home Page
-The main dashboard displaying the system overview.
+
 
 ![Home Page](./assets/home.png)
 
