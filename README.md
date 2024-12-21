@@ -39,10 +39,12 @@ EFENSYS is a command-control web application developed using the MEVN stack (Mon
 
 ## Screenshots
 
-### 1. Home Page
-The main dashboard displaying the system overview.
 
-![Home Page](./assets/home.png)
+
+### 5. Register Page
+The registration page for new users.
+
+![Register Page](./assets/register.png)
 
 ---
 
@@ -67,10 +69,10 @@ This page provides real-time monitoring of operations and sensor data.
 
 ---
 
-### 5. Register Page
-The registration page for new users.
+### 1. Home Page
+The main dashboard displaying the system overview.
 
-![Register Page](./assets/register.png)
+![Home Page](./assets/home.png)
 
 ### Contact 
 -You can contact me at bugrao7turk@gmail.com 
