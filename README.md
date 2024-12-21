@@ -36,6 +36,15 @@ EFENSYS is a command-control web application developed using the MEVN stack (Mon
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Bugra-Ozturk/EFENSYS.git
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your `.env` file:
+
+```plaintext
+JWT_SECRET_KEY=your_jwt_secret_key
+JWT_EXPIRE_TIME=expiration_time_in_seconds
+MONGODB_URI=your_mongodb_connection_string
+
 
 ## Usage Example
 
