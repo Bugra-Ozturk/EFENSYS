@@ -37,6 +37,31 @@ EFENSYS is a command-control web application developed using the MEVN stack (Mon
    ```bash
    git clone https://github.com/Bugra-Ozturk/EFENSYS.git
 
+## Usage Example
+
+1. **User Login**  
+   The user logs into the system using their credentials on the login page.
+
+2. **Start an Operation**  
+   Once logged in, the user navigates to the panel and starts an operation. Real-time data will begin to flow if you have a Raspberry Pi-powered smart helmet with sensors.  
+   *(Don't have a high-tech helmet? Don't worry, you can simulate the experience with an HTTP client!)*
+
+3. **Simulating Data via HTTP Client**  
+   To test the system without a Raspberry Pi helmet, you can send a request using tools like **Postman** or **cURL**. Below is an example JSON payload you can send to simulate sensor data:
+
+   ```json
+   {
+       "title": "Operation 1",
+       "measurement": {
+           "methane": 600,
+           "propane": 2152,
+           "isobutane": 860,
+           "hydrogen": 670
+       }
+   }
+
+
+
 ## Screenshots
 
 
