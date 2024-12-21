@@ -36,5 +36,41 @@ EFENSYS is a command-control web application developed using the MEVN stack (Mon
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Bugra-Ozturk/EFENSYS.git
+
+## Screenshots
+
+### 1. Home Page
+The main dashboard displaying the system overview.
+
+![Home Page](./assets/home.png)
+
+---
+
+### 2. Login Page
+The login page for user authentication.
+
+![Login Page](./assets/login.png)
+
+---
+
+### 3. Modal Window
+A modal window example for critical alerts.
+
+![Modal Window](./assets/modal.png)
+
+---
+
+### 4. Operation Page
+This page provides real-time monitoring of operations and sensor data.
+
+![Operation Page](./assets/operation.png)
+
+---
+
+### 5. Register Page
+The registration page for new users.
+
+![Register Page](./assets/register.png)
+
 ### Contact 
 -You can contact me at bugrao7turk@gmail.com 
