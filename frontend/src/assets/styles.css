@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@200..1000&display=swap');
+
+:root {
+     --primary-color : #173B45;
+     --secondary-color : #FF8225;
+     --tertiary-color : #FFFFFF;
+     --tetra-color : #F8EDED;
+     
+
+}
+
+html, body {
+     font-family: "Mulish", sans-serif;
+     
+          height: 100%;
+          margin: 0;
+          padding: 0;
+          overflow-x: hidden; 
+        
+}
+a {
+     text-decoration: none;
+}
+.full-section-height {
+     min-height: calc(100vh - 130px);
+     background-color: var(--tertiary-color);
+}
+h1{
+     color: var(--secondary-color)
+}
+p {
+     font-size: 18px;
+     color : var(--primary-color)
+}
+.form-control {
+     border-radius: 20px;
+     height: 40px;
+     max-width: 500px;
+   } 
+   
+   .form-control:focus {
+     box-shadow: none !important;
+   }
+   .btn-primary {
+     border-radius:25px;
+     height: 40px;
+     background-color: var(--secondary-color) !important;
+     border: 1px solid var(--secondary-color) !important;
+     min-width: 175px;
+   }
+   .btn-primary:hover { 
+     background-color: #fff !important;
+     color: var(--secondary-color) !important;
+     transition: all 0.3s ease;
+   }
+ 
+
+
+
