@@ -2,10 +2,6 @@
 
 EFENSYS is a command-control web application developed using the MEVN stack (MongoDB, Express.js, Vue3 Options API, Node.js). The system processes sensor data from helmets equipped with Raspberry Pi and provides real-time monitoring to disaster and fire teams. It can generate early warnings for potential risks, ensuring better safety and situational awareness.
 
-
-![Screenshot of Login Page](./assets/login.png)
-
-
 ---
 
 ## Features
