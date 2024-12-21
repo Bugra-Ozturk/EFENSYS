@@ -55,8 +55,8 @@ The login page for user authentication.
 
 ---
 
-### 3. Modal Window
-A modal window example for critical alerts.
+### 3. Launch Panel
+Operation launch panel
 
 ![Modal Window](./assets/modal.png)
 
